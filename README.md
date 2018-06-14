@@ -1,5 +1,5 @@
 # NXFront
-## NXFront - The Nintendo Switch Homebrew Browser
+## The Nintendo Switch Homebrew Browser
 ### "Because DNS Settings are Overrated"
 
 This is currently in W.I.P.
